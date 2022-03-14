@@ -1,8 +1,5 @@
 import React, { useState } from "react";
 import { SliderData } from "./SliderData";
-import monsoonGraphic from "./595198868_505x160.jpeg";
-import beamsGraphic from "./589972810_530x315.jpeg";
-import moveGraphic from "./590587169_530x315.jpeg";
 import playIcon from "./play-icon.svg";
 import leftArrow from "./left-arrow.svg";
 import rightArrow from "./right-arrow.svg";

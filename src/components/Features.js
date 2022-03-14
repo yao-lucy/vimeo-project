@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import monsoonGraphic from "./595198868_505x160.jpeg";
 import beamsGraphic from "./589972810_530x315.jpeg";
 import moveGraphic from "./590587169_530x315.jpeg";
@@ -7,10 +6,6 @@ function Features() {
   return (
     <>
       <body>
-        {/* <!-- <div class="example">
-        <iframe src="https://player.vimeo.com/video/186000920" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div> --> */}
-
         <div class = "feature" id="monsoon">
           <div class="container-right">
             <h1 id = "monsoon-header">Monsoon III</h1>
@@ -24,7 +19,6 @@ function Features() {
           </div>
           <div class="container-left">
             <img src={monsoonGraphic} alt="graphic" class="feature-image" />
-            {/* <!-- <iframe src="https://player.vimeo.com/video/186000920" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> --> */}
           </div>
         </div>
 

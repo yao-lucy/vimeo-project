@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Lucy_Yao_Vimeo_Project/static/css/main.06bf3f1a.css",
-    "main.js": "/Lucy_Yao_Vimeo_Project/static/js/main.dc47422a.js",
-    "static/js/787.35e1b29a.chunk.js": "/Lucy_Yao_Vimeo_Project/static/js/787.35e1b29a.chunk.js",
-    "index.html": "/Lucy_Yao_Vimeo_Project/index.html",
-    "static/media/play-icon.svg": "/Lucy_Yao_Vimeo_Project/static/media/play-icon.31f45869850a585976df66e4a10d768c.svg",
-    "static/media/left-arrow.svg": "/Lucy_Yao_Vimeo_Project/static/media/left-arrow.9adbba1e7e1a919573f924ba0537de66.svg",
-    "static/media/right-arrow.svg": "/Lucy_Yao_Vimeo_Project/static/media/right-arrow.52edb8087565472880c019b07ec37bc7.svg",
-    "main.06bf3f1a.css.map": "/Lucy_Yao_Vimeo_Project/static/css/main.06bf3f1a.css.map",
-    "main.dc47422a.js.map": "/Lucy_Yao_Vimeo_Project/static/js/main.dc47422a.js.map",
-    "787.35e1b29a.chunk.js.map": "/Lucy_Yao_Vimeo_Project/static/js/787.35e1b29a.chunk.js.map"
+    "main.css": "/vimeo-project/static/css/main.7c9774d5.css",
+    "main.js": "/vimeo-project/static/js/main.a3be2ac9.js",
+    "static/js/787.5a53ef1f.chunk.js": "/vimeo-project/static/js/787.5a53ef1f.chunk.js",
+    "index.html": "/vimeo-project/index.html",
+    "static/media/play-icon.svg": "/vimeo-project/static/media/play-icon.31f45869850a585976df66e4a10d768c.svg",
+    "static/media/left-arrow.svg": "/vimeo-project/static/media/left-arrow.9adbba1e7e1a919573f924ba0537de66.svg",
+    "static/media/right-arrow.svg": "/vimeo-project/static/media/right-arrow.52edb8087565472880c019b07ec37bc7.svg",
+    "main.7c9774d5.css.map": "/vimeo-project/static/css/main.7c9774d5.css.map",
+    "main.a3be2ac9.js.map": "/vimeo-project/static/js/main.a3be2ac9.js.map",
+    "787.5a53ef1f.chunk.js.map": "/vimeo-project/static/js/787.5a53ef1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06bf3f1a.css",
-    "static/js/main.dc47422a.js"
+    "static/css/main.7c9774d5.css",
+    "static/js/main.a3be2ac9.js"
   ]
 }

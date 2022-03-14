@@ -1,8 +1,8 @@
 {
-  "name": "Lucy_Yao_Vimeo_Project",
+  "name": "vimeo-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yao-lucy.github.io/Lucy_Yao_Vimeo_Project",
+  "homepage": "http://yao-lucy.github.io/vimeo-project",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
