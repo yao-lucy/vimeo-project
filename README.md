@@ -1,4 +1,4 @@
-# Lucy Yao, Vimeo/Growth Team: Code Sample Exercise
+## Lucy Yao, Vimeo/Growth Team: Code Sample Exercise
 
 Access the app at https://yao-lucy.github.io/vimeo-project/.
 
